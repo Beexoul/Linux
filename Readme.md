@@ -4,7 +4,7 @@
 
 1. [Introduction](#introduction)
 2. [Major Linux Distributions](#major-linux-distributions)
-    - [Ubuntu](#ubuntu)
+    - [Ubuntu](./Ubuntu/Readme.md)
     - [Debian](#debian)
     - [Fedora](#fedora)
     - [CentOS](#centos)
