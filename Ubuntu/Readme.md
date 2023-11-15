@@ -1,5 +1,5 @@
 # Ubuntu
-![Ubuntu](./Ubuntu.png?format=jpg&width=600)
+![Ubuntu](./Ubuntu.png?format=jpg&width=1440)
 - **Website:** [https://ubuntu.com](https://ubuntu.com/)
 
 ## Introduction
