@@ -14,7 +14,6 @@
     - [Kali Linux](#kali-linux)
     - [Raspbian](#raspbian)
     - [Tails](#tails)
-4. [Conclusion](#conclusion)
 
 ## Introduction
 

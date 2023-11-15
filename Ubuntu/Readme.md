@@ -1,6 +1,6 @@
 # Ubuntu
 ![enter image description here](https://imageio.forbes.com/blogs-images/jasonevangelho/files/2018/07/ubuntu-logo.jpg?format=jpg&width=600)
-- **Website:** [Ubuntu](https://ubuntu.com/)
+- **Website:** [https://ubuntu.com](https://ubuntu.com/)
 
 ## Introduction
 
