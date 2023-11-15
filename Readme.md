@@ -19,7 +19,7 @@
 
 Linux is a free and open-source Unix-like operating system kernel that serves as the core of many different operating systems, commonly known as Linux distributions (or distros). The kernel is the essential part of an operating system that manages hardware resources and provides services for computer programs. Linux was initially created as a hobby by Linus Torvalds in 1991, and it has since grown to become one of the most widely used operating systems.
 
-Key characteristics of Linux include:
+## Key characteristics of Linux include:
 
 1. **Open Source:** Linux is distributed under the terms of the GNU General Public License (GPL), which means its source code is freely available to the public. Users have the freedom to view, modify, and distribute the source code.
 
