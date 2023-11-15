@@ -1,19 +1,19 @@
 # Linux Distributions
-![Linux_Banner](https://adminscriptbank.files.wordpress.com/2016/09/banner_linux.png)
+![Linux_Banner](./Banner_Linux.jpeg?format=jpeg&width=600)
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Major Linux Distributions](#major-linux-distributions)
     - [Ubuntu](./Ubuntu/Readme.md)
-    - [Debian](#debian)
-    - [Fedora](#fedora)
-    - [CentOS](#centos)
-    - [Arch Linux](#arch-linux)
-    - [openSUSE](#opensuse)
+    - [Debian](./Debian/Readme.md)
+    - [Fedora](./Fedora/Readme.md)
+    - [CentOS](./CentOS/readme.md)
+    - [Arch Linux](./Arch%20Linux/Readme.md)
+    - [openSUSE](./openSUSE/Readme.md)
 3. [Specialized Distributions](#specialized-distributions)
-    - [Kali Linux](#kali-linux)
-    - [Raspbian](#raspbian)
-    - [Tails](#tails)
+    - [Kali Linux](./Specialized%20Distributions/Kali%20Linux/Readme.md)
+    - [Raspbian](./Specialized%20Distributions/Raspbian/Readme.md)
+    - [Tails](./Specialized%20Distributions/Tails/Readme.md)
 
 ## Introduction
 
