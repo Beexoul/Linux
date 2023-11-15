@@ -1,5 +1,5 @@
 # Linux Distributions
-![Linux_Banner](./Banner_Linux.jpeg?format=jpeg&width=600)
+![Linux_Banner](./Banner_Linux.jpeg?format=jpeg&width=1440)
 ## Table of Contents
 
 1. [Introduction](#introduction)
